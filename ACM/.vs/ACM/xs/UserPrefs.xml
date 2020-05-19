@@ -1,0 +1,53 @@
+﻿<Properties StartupConfiguration="{2BEA6BB7-6CFC-4CBE-B491-4FC36D6B804B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerRepositoryTest/Acme.CommonTest/LoggingServiceTest.cs">
+    <Files>
+      <File FileName="ACM.BL/Product.cs" Line="7" Column="49" />
+      <File FileName="CustomerRepositoryTest/Acme.CommonTest/StringHandlerTest.cs" Line="1" Column="1" />
+      <File FileName="ACM.BL/Customer.cs" Line="7" Column="50" />
+      <File FileName="Acme.Common/LoggingService.cs" Line="16" Column="2" />
+      <File FileName="Acme.Common/ILoggable.cs" Line="6" Column="22" />
+      <File FileName="ACM.BL/Order.cs" Line="32" Column="102" />
+      <File FileName="CustomerRepositoryTest/Acme.CommonTest/LoggingServiceTest.cs" Line="38" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ACM" expanded="True">
+            <Node name="TestsNew" expanded="True">
+              <Node name="ACM.BLTestNew" expanded="True">
+                <Node name="Acme.CommonTest" expanded="True">
+                  <Node name="LoggingServiceTest.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="ACM.BL" expanded="True" />
+            <Node name="Acme.Common" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ACM" expanded="True">
+            <Node name="TestsNew" expanded="True">
+              <Node name="ACM.BLTestNew" expanded="True">
+                <Node name="Acme.CommonTest" expanded="True">
+                  <Node name="LoggingServiceTest" expanded="True">
+                    <Node name="WriteToFileTest" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Acme.CommonTests" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestsNew.ACM.BLTestNew PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

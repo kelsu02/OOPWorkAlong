@@ -1,0 +1,9 @@
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.deps.json
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.dll
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/bin/Debug/netcoreapp3.1/Acme.Common.pdb
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.csproj.CoreCompileInputs.cache
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.AssemblyInfoInputs.cache
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.AssemblyInfo.cs
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.dll
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.pdb
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/Acme.Common/obj/Debug/netcoreapp3.1/Acme.Common.csprojAssemblyReference.cache

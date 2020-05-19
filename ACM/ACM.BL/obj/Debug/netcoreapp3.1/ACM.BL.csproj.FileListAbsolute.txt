@@ -1,0 +1,12 @@
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.deps.json
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.dll
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/bin/Debug/netcoreapp3.1/ACM.BL.pdb
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.csproj.CoreCompileInputs.cache
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.AssemblyInfoInputs.cache
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.AssemblyInfo.cs
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.dll
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.pdb
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/bin/Debug/netcoreapp3.1/Acme.Common.dll
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/bin/Debug/netcoreapp3.1/Acme.Common.pdb
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.csprojAssemblyReference.cache
+/Users/kellyredmond/Projects/cSharp/AcmeCustomerManagement/ACM/ACM.BL/obj/Debug/netcoreapp3.1/ACM.BL.csproj.CopyComplete

@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BL", "ACM.BL\ACM.BL.csproj", "{47471BFD-96CC-4384-AAC5-F0AEB3CF3D4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Common", "Acme.Common\Acme.Common.csproj", "{74911FE1-A302-47A8-8B00-53382F208AC8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestsNew", "TestsNew", "{77CE2113-E31A-436F-A5F3-22A281F77B01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BLTestNew", "CustomerRepositoryTest\ACM.BLTestNew.csproj", "{2BEA6BB7-6CFC-4CBE-B491-4FC36D6B804B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47471BFD-96CC-4384-AAC5-F0AEB3CF3D4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47471BFD-96CC-4384-AAC5-F0AEB3CF3D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47471BFD-96CC-4384-AAC5-F0AEB3CF3D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47471BFD-96CC-4384-AAC5-F0AEB3CF3D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74911FE1-A302-47A8-8B00-53382F208AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74911FE1-A302-47A8-8B00-53382F208AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74911FE1-A302-47A8-8B00-53382F208AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74911FE1-A302-47A8-8B00-53382F208AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BEA6BB7-6CFC-4CBE-B491-4FC36D6B804B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BEA6BB7-6CFC-4CBE-B491-4FC36D6B804B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BEA6BB7-6CFC-4CBE-B491-4FC36D6B804B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BEA6BB7-6CFC-4CBE-B491-4FC36D6B804B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2BEA6BB7-6CFC-4CBE-B491-4FC36D6B804B} = {77CE2113-E31A-436F-A5F3-22A281F77B01}
+	EndGlobalSection
+EndGlobal
